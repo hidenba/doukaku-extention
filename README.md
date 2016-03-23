@@ -17,5 +17,5 @@ $ brew tap codekitchen/dinghy
 $ brew install dinghy
 $ dinghy create --provider=virtualbox
 $ eval $(dinghy shellinit)
-$ docker run -v #{codedir}:/doukaku -ti hidenba/doukaku-extention
+$ docker run -v #{codedir}:/doukaku -ti hidenba/doukaku-extention bash
 ```
