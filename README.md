@@ -6,6 +6,7 @@
 - haskell
 - jdk
 - rust
+- go
 
 (elixirは上手く入らなかった)
 
